@@ -1,6 +1,6 @@
 # Awesome Prompt Management Platforms & LLMOps Ecosystem 🚀
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Prompt-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Prompt-Management-Platform?style=social" alt="GitHub stars" /></a> <a href="https://github.com/ishandutta2007/Awesome-Prompt-Management-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Prompt-Management-Platform?style=social" alt="GitHub forks" /></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Prompt-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Prompt-Management-Platform?style=social" alt="GitHub_Stars" /></a> <a href="https://github.com/ishandutta2007/Awesome-Prompt-Management-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Prompt-Management-Platform?style=social" alt="GitHub forks" /></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 ![Awesome Prompt Management Platform Banner](assets/banner.svg)
 
@@ -66,40 +66,40 @@ Prompt management has robust open-source alternatives. **Langfuse** leads as a s
 
 ## 💻 Open-Source GitHub Projects
 
-- **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
+- **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub_Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
   High-performance AI Gateway with prompt management, logging, cost tracking, guardrails, and unified access to 100+ LLM APIs. 🛡️
 
-- **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+- **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub_Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
   Leading open-source LLM engineering platform (MIT) featuring complete prompt management: versioning, release labels, evaluations, tracing, and prompt experiments. 🪢
 
-- **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
+- **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub_Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
   Open-source CLI and library for automated testing, red-teaming, and benchmarking prompts, agents, and RAG architectures with CI/CD integration. 🎯
 
-- **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
+- **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub_Stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
   Open-source LLM evaluation framework for unit testing prompts, RAG pipelines, and agent behaviors with synthetic data generation. 🧪
 
-- **[Ragas](https://github.com/explodinggradients/ragas)** [![GitHub stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white)](https://github.com/explodinggradients/ragas/stargazers)  
+- **[Ragas](https://github.com/explodinggradients/ragas)** [![GitHub_Stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white)](https://github.com/explodinggradients/ragas/stargazers)  
   Framework for evaluating Retrieval-Augmented Generation (RAG) and prompt quality using automated metric scoring. 🚀
 
-- **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** [![GitHub stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social&color=white)](https://github.com/Portkey-AI/gateway/stargazers)  
+- **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** [![GitHub_Stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social&color=white)](https://github.com/Portkey-AI/gateway/stargazers)  
   Fast open-source AI gateway supporting prompt routing, fallbacks, load balancing, and production guardrails. 🔑
 
-- **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
+- **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
   Open-source AI observability and evaluation platform for tracking prompt performance, traces, and dataset metrics. 🔥
 
-- **[OpenLLMetry](https://github.com/traceloop/openllmetry)** [![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
+- **[OpenLLMetry](https://github.com/traceloop/openllmetry)** [![GitHub_Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
   Open-source OpenTelemetry-based observability for GenAI apps, enabling prompt and model interaction tracing across services. 📡
 
-- **[Helicone](https://github.com/Helicone/helicone)** [![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=social&color=white)](https://github.com/Helicone/helicone/stargazers)  
+- **[Helicone](https://github.com/Helicone/helicone)** [![GitHub_Stars](https://img.shields.io/github/stars/Helicone/helicone?style=social&color=white)](https://github.com/Helicone/helicone/stargazers)  
   Open-source LLM observability proxy for logging requests, monitoring prompt performance, costs, and request latency. 🧊
 
-- **[Agenta](https://github.com/Agenta-AI/agenta)** [![GitHub stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=social&color=white)](https://github.com/Agenta-AI/agenta/stargazers)  
+- **[Agenta](https://github.com/Agenta-AI/agenta)** [![GitHub_Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=social&color=white)](https://github.com/Agenta-AI/agenta/stargazers)  
   Open-source LLMOps workspace for prompt engineering, collaborative prompt testing, versioning, and evaluation. 🧠
 
-- **[TruLens](https://github.com/truera/trulens)** [![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)  
+- **[TruLens](https://github.com/truera/trulens)** [![GitHub_Stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)  
   Instrumentation and evaluation library for tracking and scoring prompt performance in LLM applications. 🔍
 
-- **[OpenLIT](https://github.com/OpenLIT/openlit)** [![GitHub stars](https://img.shields.io/github/stars/OpenLIT/openlit?style=social&color=white)](https://github.com/OpenLIT/openlit/stargazers)  
+- **[OpenLIT](https://github.com/OpenLIT/openlit)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenLIT/openlit?style=social&color=white)](https://github.com/OpenLIT/openlit/stargazers)  
   Open-source OpenTelemetry-native AI application observability and prompt performance monitoring suite. ⚡
 
 ---
