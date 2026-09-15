@@ -1,5 +1,7 @@
 # Awesome Prompt Management Platforms & LLMOps Ecosystem 🚀
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Prompt-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Prompt-Management-Platform?style=social" alt="GitHub stars" /></a> <a href="https://github.com/ishandutta2007/Awesome-Prompt-Management-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Prompt-Management-Platform?style=social" alt="GitHub forks" /></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+
 ![Awesome Prompt Management Platform Banner](assets/banner.svg)
 
 ## 🌐 Top Prompt Management Platforms Ecosystem
@@ -32,6 +34,7 @@ Prompt management has robust open-source alternatives. **Langfuse** leads as a s
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Key Features Comparison & Criteria](#-key-features-comparison--criteria)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
 ---
@@ -134,6 +137,12 @@ Contributions are welcome! Help us keep this LLMOps & Prompt Management guide up
 
 ---
 
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Prompt-Management-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Prompt-Management-Platform&type=date&legend=top-left)
+
+---
+
 ## ⚠️ Disclaimer
 
 - This list is **community-curated** for informational purposes and does not constitute an endorsement.
@@ -144,3 +153,4 @@ Contributions are welcome! Help us keep this LLMOps & Prompt Management guide up
 <p center="text-center">
   <b>Made with ❤️ for AI Engineers, Prompt Engineers, and LLM Application Teams.</b>
 </p>
+
