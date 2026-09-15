@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.4; transform: scale(1); }
+      50% { opacity: 0.8; transform: scale(1.08); }
+    }
+    @keyframes dashMove {
+      0% { stroke-dashoffset: 100; }
+      100% { stroke-dashoffset: 0; }
+    }
+    @keyframes floatParticle {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+    }
+    .g-glow { animation: pulseGlow 4s ease-in-out infinite; transform-origin: center; }
+    .g-dash { stroke-dasharray: 10 15; animation: dashMove 20s linear infinite; }
+    .g-float1 { animation: floatParticle 3s ease-in-out infinite; }
+    .g-float2 { animation: floatParticle 4s ease-in-out infinite 1s; }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bgGrad)" rx="16"/>
+  
+  <!-- Glowing background circles -->
+  <circle cx="600" cy="200" r="300" fill="url(#glow)" class="g-glow" />
+  <circle cx="200" cy="100" r="150" fill="url(#glow)" class="g-glow" />
+
+  <!-- Grid Decoration -->
+  <path d="M 0,100 L 1200,100 M 0,200 L 1200,200 M 0,300 L 1200,300" stroke="#334155" stroke-opacity="0.3" stroke-width="1" />
+  <path d="M 300,0 L 300,400 M 600,0 L 600,400 M 900,0 L 900,400" stroke="#334155" stroke-opacity="0.3" stroke-width="1" />
+
+  <!-- Connecting Node Network (Prompt Engineering / Flow visualization) -->
+  <g class="g-dash" stroke="url(#textGrad)" stroke-width="2" fill="none" opacity="0.6">
+    <path d="M 150,200 Q 300,120 450,200 T 750,200 T 1050,200" />
+    <path d="M 150,200 Q 300,280 450,200 T 750,200 T 1050,200" />
+  </g>
+
+  <!-- Node Circles -->
+  <g fill="url(#accentGrad)">
+    <circle cx="150" cy="200" r="8" class="g-float1" />
+    <circle cx="450" cy="200" r="10" class="g-float2" />
+    <circle cx="750" cy="200" r="10" class="g-float1" />
+    <circle cx="1050" cy="200" r="8" class="g-float2" />
+  </g>
+
+  <!-- Central Title Text -->
+  <g text-anchor="middle">
+    <!-- Subtitle / Tagline -->
+    <text x="600" y="110" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="4">
+      CURATED LLMOPS &amp; PROMPT ENGINEERING ECOSYSTEM
+    </text>
+
+    <!-- Main Heading -->
+    <text x="600" y="180" fill="url(#textGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="1">
+      Awesome Prompt Management Platform
+    </text>
+
+    <!-- Description -->
+    <text x="600" y="230" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">
+      Prompt Registries • Versioning • Observability • Evaluations • LLM Experimentation
+    </text>
+
+    <!-- Feature Pills -->
+    <g transform="translate(340, 270)">
+      <!-- Pill 1 -->
+      <rect x="0" y="0" width="150" height="36" rx="18" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5" />
+      <text x="75" y="23" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600">⚡ Open Source</text>
+      
+      <!-- Pill 2 -->
+      <rect x="185" y="0" width="150" height="36" rx="18" fill="#1e293b" stroke="#818cf8" stroke-width="1.5" />
+      <text x="260" y="23" fill="#818cf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600">🚀 Enterprise SaaS</text>
+
+      <!-- Pill 3 -->
+      <rect x="370" y="0" width="150" height="36" rx="18" fill="#1e293b" stroke="#c084fc" stroke-width="1.5" />
+      <text x="445" y="23" fill="#c084fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600">📊 Star Rankings</text>
+    </g>
+  </g>
+</svg>

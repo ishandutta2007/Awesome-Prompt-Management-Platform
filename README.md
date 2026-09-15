@@ -40,93 +40,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Langfuse](https://www.langfuse.com/)**  
-
-  Open-source LLM observability and prompt management platform with versioning, labels, experiments, tracing, and evaluations (cloud and self-hosted).
-
-
-
-- **[Humanloop](https://humanloop.com/)**  
-
-  Prompt engineering and evaluation platform focused on collaboration and systematic improvement of LLM applications.
-
-
-
-- **[PromptLayer](https://www.promptlayer.com/)**  
-
-  Prompt management and observability platform with versioning, release labels, A/B testing, and collaboration features for technical and non-technical users.
-
-
-
-- **[Helicone](https://www.helicone.ai/)**  
-
-  LLM observability platform with logging, cost tracking, and prompt-related production visibility (proxy-based).
-
-
-
-- **[Portkey](https://portkey.ai/)**  
-
-  AI gateway and observability platform that includes prompt management, routing, guardrails, and production controls.
-
-
-
-- **[Braintrust](https://www.braintrust.dev/)**  
-
-  Evaluation-first platform for prompt testing, versioning, datasets, and systematic improvement of LLM applications.
-
-
-
-- **[Lunary](https://www.lunary.ai/)**  
-
-  Open-source-friendly LLM observability and prompt management tool for tracking and improving prompts in production.
-
-
-
-- **[LangSmith](https://www.langchain.com/langsmith)**  
-
-  LangChain’s platform for tracing, evaluation, prompt management, and experimentation tightly integrated with LangChain/LangGraph.
-
-
-
-- **[Weights & Biases Prompts](https://wandb.ai/)**  
-
-  Prompt and LLM experiment tracking capabilities within the broader Weights & Biases MLOps platform.
-
-
-
-- **[PromptHub](https://www.prompthub.us/)**  
-
-  Platform focused on sharing, discovering, and managing prompts.
-
-
-
-- **[PromptPerfect](https://promptperfect.jina.ai/)**  
-
-  Tool aimed at optimizing and refining prompt quality.
-
-
-
-- **[Promptitude](https://www.promptitude.io/)** (or similar)  
-
-  Prompt management and workflow tools for teams building LLM applications.
-
-
-
-- **[Agenta](https://agenta.ai/)**  
-
-  Open-source LLMOps platform focused on prompt engineering, versioning, evaluation, and collaboration (also offered as a hosted service).
-
-
-
-- **[Keywords AI](https://www.keywordsai.co/)**  
-
-  LLM engineering platform with prompt management, observability, and related production features.
-
-
-
-- **[Promptfoo](https://www.promptfoo.dev/)**  
-
-  Open-source LLM evaluation and red-teaming tool with cloud options; supports prompt testing, comparison, and CI/CD integration.
+| Product | Description | Starting Price | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[Langfuse](https://www.langfuse.com/)** | Open-source LLM observability and prompt management platform with versioning, labels, experiments, tracing, and evaluations (cloud and self-hosted). | $29/mo (Core plan) | 50,000 units/mo, 30 days retention, 2 users |
+| **[Humanloop](https://humanloop.com/)** | Prompt engineering and evaluation platform focused on collaboration and systematic improvement of LLM applications. | Contact for Custom Enterprise pricing | Free Trial: 10,000 logs/mo, 50 eval runs, 2 seats |
+| **[PromptLayer](https://www.promptlayer.com/)** | Prompt management and observability platform with versioning, release labels, A/B testing, and collaboration features for technical and non-technical users. | $49/mo (Pro plan) | 2,500 requests/mo, unlimited logging, core versioning |
+| **[Helicone](https://www.helicone.ai/)** | LLM observability platform with logging, cost tracking, and prompt-related production visibility (proxy-based). | $79/mo (Pro plan) | 10,000 requests/mo, 7 days retention, 1 GB storage, 1 seat |
+| **[Portkey](https://portkey.ai/)** | AI gateway and observability platform that includes prompt management, routing, guardrails, and production controls. | $49/mo (Pro plan) | 10,000 recorded logs/mo, 3 days log retention |
+| **[Braintrust](https://www.braintrust.dev/)** | Evaluation-first platform for prompt testing, versioning, datasets, and systematic improvement of LLM applications. | $249/mo (Pro plan) | 1 GB processed data/mo, 10,000 scores/mo, $10 model credits/mo |
+| **[Lunary](https://www.lunary.ai/)** | Open-source-friendly LLM observability and prompt management tool for tracking and improving prompts in production. | $20/user/mo (Team plan) | 1,000 events/day (or 10k/mo), 30 days retention, 1 seat |
+| **[LangSmith](https://www.langchain.com/langsmith)** | LangChain’s platform for tracing, evaluation, prompt management, and experimentation tightly integrated with LangChain/LangGraph. | $39/seat/mo (Plus plan) | 5,000 traces/mo, 14 days retention, 1 seat |
+| **[Weights & Biases Prompts](https://wandb.ai/)** | Prompt and LLM experiment tracking capabilities within the broader Weights & Biases MLOps platform. | $60/mo (Pro plan) | 5 seats, 5 GB storage, 1 GB/mo Weave ingestion |
+| **[PromptHub](https://www.prompthub.us/)** | Platform focused on sharing, discovering, and managing prompts. | $12/user/mo (Pro plan) | Free forever plan with unlimited public prompts & 2,000 requests/mo |
+| **[PromptPerfect](https://promptperfect.jina.ai/)** | Tool aimed at optimizing and refining prompt quality. | $9.99/mo (Lite plan) | Free signup credit allowance / 1 prompt optimization per day |
+| **[Promptitude](https://www.promptitude.io/)** | Prompt management and workflow tools for teams building LLM applications. | $39/mo | 100 generations/mo, 200 tool calls/mo, 5 prompts, 2 seats, 50k tokens |
+| **[Agenta](https://agenta.ai/)** | Open-source LLMOps platform focused on prompt engineering, versioning, evaluation, and collaboration (also offered as a hosted service). | $29/mo (Pro plan) | 5,000 agent runs/mo, 2 seats |
+| **[Keywords AI](https://www.keywordsai.co/)** | LLM engineering platform with prompt management, observability, and related production features. | Pay-as-you-go / Custom | Free starter tier: 100,000 logs, 1,000 scores, 5 datasets |
+| **[Promptfoo](https://www.promptfoo.dev/)** | Open-source LLM evaluation and red-teaming tool with cloud options; supports prompt testing, comparison, and CI/CD integration. | $50/mo (Team plan) | 10,000 red team probes/mo & free unlimited local CLI usage |
 
 
 
