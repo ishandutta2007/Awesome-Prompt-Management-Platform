@@ -65,65 +65,41 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[Langfuse](https://github.com/langfuse/langfuse)**  
+- **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
+  High-performance AI Gateway with prompt management, logging, cost tracking, guardrails, and unified access to 100+ LLM APIs.
 
-  Leading open-source LLM engineering platform (MIT) with first-class prompt management: versioning, labels, protected releases, experiments, tracing, and evaluations. Fully self-hostable.
+- **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+  Leading open-source LLM engineering platform (MIT) featuring complete prompt management: versioning, release labels, evaluations, tracing, and prompt experiments.
 
+- **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
+  Open-source CLI and library for automated testing, red-teaming, and benchmarking prompts, agents, and RAG architectures with CI/CD integration.
 
+- **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
+  Open-source LLM evaluation framework for unit testing prompts, RAG pipelines, and agent behaviors with synthetic data generation.
 
-- **[Agenta](https://github.com/Agenta-AI/agenta)**  
+- **[Ragas](https://github.com/explodinggradients/ragas)** [![GitHub stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white)](https://github.com/explodinggradients/ragas/stargazers)  
+  Framework for evaluating Retrieval-Augmented Generation (RAG) and prompt quality using automated metric scoring.
 
-  Open-source platform for prompt engineering, versioning, evaluation, and collaborative testing of LLM applications.
+- **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** [![GitHub stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social&color=white)](https://github.com/Portkey-AI/gateway/stargazers)  
+  Fast open-source AI gateway supporting prompt routing, fallbacks, load balancing, and production guardrails.
 
+- **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
+  Open-source AI observability and evaluation platform for tracking prompt performance, traces, and dataset metrics.
 
+- **[OpenLLMetry](https://github.com/traceloop/openllmetry)** [![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
+  Open-source OpenTelemetry-based observability for GenAI apps, enabling prompt and model interaction tracing across services.
 
-- **[Promptfoo](https://github.com/promptfoo/promptfoo)**  
+- **[Helicone](https://github.com/Helicone/helicone)** [![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=social&color=white)](https://github.com/Helicone/helicone/stargazers)  
+  Open-source LLM observability proxy for logging requests, monitoring prompt performance, costs, and request latency.
 
-  Open-source CLI and library for evaluating and red-teaming prompts, agents, and RAGs with declarative configs and CI/CD support.
+- **[Agenta](https://github.com/Agenta-AI/agenta)** [![GitHub stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=social&color=white)](https://github.com/Agenta-AI/agenta/stargazers)  
+  Open-source LLMOps workspace for prompt engineering, collaborative prompt testing, versioning, and evaluation.
 
+- **[TruLens](https://github.com/truera/trulens)** [![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)  
+  Instrumentation and evaluation library for tracking and scoring prompt performance in LLM applications.
 
-
-- **[Helicone](https://github.com/Helicone/helicone)**  
-
-  Open-source LLM observability proxy that provides logging, analytics, and related production visibility useful alongside prompt workflows.
-
-
-
-- **[Portkey / open gateway components](https://github.com/)**  
-
-  Open or partially open AI gateway projects that support prompt routing, management, and observability features.
-
-
-
-- **[Prompt registry and versioning open experiments](https://github.com/)**  
-
-  Community tools for storing prompts as versioned artifacts with simple APIs or Git-based workflows.
-
-
-
-- **[Evaluation and dataset open frameworks](https://github.com/)**  
-
-  Open evaluation libraries (including DeepEval, Ragas, and others) that pair well with prompt versioning for systematic testing.
-
-
-
-- **[LiteLLM and proxy open tools](https://github.com/BerriAI/litellm)**  
-
-  Open proxies that can sit in front of multiple LLM providers and support logging/versioning patterns.
-
-
-
-- **[Self-hosted observability stacks for LLMs](https://github.com/)**  
-
-  Combinations of open tracing, logging, and prompt storage that teams assemble for internal use.
-
-
-
-- **[Arize Phoenix and related open observability](https://github.com/Arize-ai/phoenix)**  
-
-  Open-source observability and evaluation tools that integrate with prompt management practices.
-
-
+- **[OpenLIT](https://github.com/OpenLIT/openlit)** [![GitHub stars](https://img.shields.io/github/stars/OpenLIT/openlit?style=social&color=white)](https://github.com/OpenLIT/openlit/stargazers)  
+  Open-source OpenTelemetry-native AI application observability and prompt performance monitoring suite.
 
 ### Additional Strong Open-Source Options
 
