@@ -40,6 +40,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+**Estimated Sector Market Size:** ~$1.5B–$2.5B (2026, within the broader LLMOps & AI Observability market projected at $5B+).  
+**Market Dynamics:** Highly fragmented sector transitioning into a moderately concentrated landscape driven by rapid consolidation (acquisitions by OpenAI, Anthropic, Palo Alto Networks, CoreWeave, Elastic, and ClickHouse), with winner-take-most dynamics emerging around full-stack LLMOps and observability suites rather than standalone prompt registries.
+
 | Product | Description | Company Scale (Valuation / Revenue) | Starting Price | Free Tier Limits |
 | :--- | :--- | :--- | :--- | :--- |
 | **[LangSmith](https://www.langchain.com/langsmith)** | LangChain’s platform for tracing, evaluation, prompt management, and experimentation tightly integrated with LangChain/LangGraph. | ~$1.25B Valuation (LangChain) / ~$16M ARR | $39/seat/mo (Plus plan) | 5,000 traces/mo, 14 days retention, 1 seat |
